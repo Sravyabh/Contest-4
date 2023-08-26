@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    border: 0px;
+}
+.dog a{
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration-line:underline;
+}
+.image a{
+    color: black;
+}
+a{
+    color: black;
+}
